@@ -12,6 +12,14 @@ This project involves analyzing data related to medicine products, including the
 | **Other Excel file** | These files (merged_data.xlsx, medicine_details_final.xlsx, merged_data.xlsx) have the scarpped data from the 1 Mg website. |
 | **Project Prestation** | This file have the dashboards and insights of the project. |
 
+## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
+- Scraped the data with the help of Python BeautifulSoup librariy.
+- Used Pandas for the data framing part.
+- Analysis was done with the help of Pandas and Excel.
+- Insights were generated from the above analysis.
+- Excel is used for dashboard and data visualization.
+
 ##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Analysis
 
 - Number of medicine available of different benefit area.
@@ -25,14 +33,6 @@ This project involves analyzing data related to medicine products, including the
 - Which brand has most greater than 4 point review medicine?
 
 <br>
-
-## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
-
-- Scraped the data with the help of Python BeautifulSoup librariy.
-- Used Pandas for the data framing part.
-- Analysis was done with the help of Pandas and Excel.
-- Insights were generated from the above analysis.
-- Excel is used for dashboard and data visualization.
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
 
