@@ -50,6 +50,10 @@ This project involves analyzing data related to medicine products, including the
 - The number of medicines in the benefits area Eye is highest.
 - SBL Pvt Ltd has the highest average number of ratings in the Hair-benefit area.
 - The brand SBL Pvt Ltd has most greater than 4-point review medicines.
+- Maximum Selling price range of medicine for each benefit area ₹ 873 to ₹ 3400.
+- Minimum Selling price range of medicine for each benefit area ₹ 36 to ₹ 56.
+[image](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/84f2e79b-8eed-43d1-9c9f-5e8c6bfa0803)
+
 - SBL Pvt Ltd and Bjain Pharmaceutical Pvt Ltd are the two brands that are used most among the benefit areas.
 - Sum of the price of medicines is highest for Eye benefit area.
 - The Brand SBL Pvt Ltd has the highest number of medicines of where a number of ratings is present.
