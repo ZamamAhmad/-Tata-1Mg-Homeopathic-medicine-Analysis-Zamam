@@ -12,7 +12,8 @@ This project involves analyzing data related to medicine products, including the
 | **Other Excel file** | These files (merged_data.xlsx, medicine_details_final.xlsx, merged_data.xlsx) have the scarpped data from the 1 Mg website. |
 | **Project Prestation** | This file have the dashboards and insights of the project. |
 
-<p align="center">(https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/a8438aed-3520-4fe7-9916-8b55b32262be)
+<p align="center"> ![1640889359717](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/868e98a4-4c29-4b49-ada2-ab0d569af9bb)
+
 
 
 
