@@ -58,6 +58,18 @@ This repository contains the thorough analysis of homeopathic medicine with the 
 
 <br>
 
+# Dashboards
+
+<img width="960" alt="image" src="https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/b7f4ed41-9e7a-4d8a-b6c5-ef09d915c938">
+
+
+![image](https://github.com/divyechopra/-Tata-1Mg-Homeopathic-medicine-Analysis-Divye/assets/122443219/47d8c396-f3da-4198-b87d-599bf66188e2)
+
+![image](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/bdf00b6a-5b8e-423d-b848-d79376080b67)     ![image](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/9d0c5a79-47d9-4b41-a2dc-e593fac2bbe1)
+
+
+
+
 ## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
 
 - The most used ingredient is Belladonna.
