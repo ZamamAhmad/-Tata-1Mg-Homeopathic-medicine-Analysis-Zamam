@@ -1,4 +1,4 @@
-# <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48"> -Tata-1Mg-Homeopathic-medicine-Analysis-Zamam  
+# <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48"> -Tata-1Mg-Homeopathic-medicine-Analysis-Zamam https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fmayan-sharma-794544183&psig=AOvVaw0WrdbeLtf0Gve_abVU7Mvf&ust=1685342081103000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjaxtKyl_8CFQAAAAAdAAAAABAg 
 
 This project involves analyzing data related to medicine products, including their benefits, pricing, brands, ratings, and ingredients. The goal is to generate insights that can be used to create an interactive dashboard for analyzing the cost of opening a homeopathic medicine store and selecting the best medicine based on benefit area. 
 
