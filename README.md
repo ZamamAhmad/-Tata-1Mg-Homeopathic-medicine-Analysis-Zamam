@@ -62,7 +62,7 @@ This repository contains the thorough analysis of homeopathic medicine with the 
 
 ![Screenshot (132)](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/5c896053-9494-461f-85a9-e2b307df38ba)
 
-![Screenshot (134)](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/2c858217-4968-4e13-8109-6d0cbe094e1f
+![Screenshot (134)](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/2c858217-4968-4e13-8109-6d0cbe094e1f)
 
 ![Screenshot (133)](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/6182728e-fa68-4e51-ab43-de3e7a52939c)
 
