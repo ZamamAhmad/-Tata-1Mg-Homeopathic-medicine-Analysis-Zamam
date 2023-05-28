@@ -1,4 +1,4 @@
-# <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48"> -Tata-1Mg-Homeopathic-medicine-Analysis-Zamam  
+# <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.gif width="48" height="48"> -Tata-1Mg-Homeopathic-medicine-Analysis-Zamam  
 
 This project involves analyzing data related to medicine products, including their benefits, pricing, brands, ratings, and ingredients. The goal is to generate insights that can be used to create an interactive dashboard for analyzing the cost of opening a homeopathic medicine store and selecting the best medicine based on benefit area. 
 
@@ -39,14 +39,25 @@ This project involves analyzing data related to medicine products, including the
 ## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
 
 - The most used ingredient is Belladonna.
+
 - The number of medicines in the benefits area Eye is highest.
+
 - SBL Pvt Ltd has the highest average number of ratings in the Hair-benefit area.
+
 - The brand SBL Pvt Ltd has most greater than 4-point review medicines.
+
 - Maximum Selling price range of medicine for each benefit area ₹ 873 to ₹ 3400.
+
 - Minimum Selling price range of medicine for each benefit area ₹ 36 to ₹ 56.
+
 - SBL Pvt Ltd and Bjain Pharmaceutical Pvt Ltd are the two brands that are used most among the benefit areas.
+
 - Sum of the price of medicines is highest for Eye benefit area.
+
 - The Brand SBL Pvt Ltd has the highest number of medicines of where a number of ratings is present.
+
 - Most rated medicine is from the Eye benefit area.
+
 - The highest number of medicine, which are rated above 3.5, is from the Eye benefit area.
+
 - Medicines of Eye benefit area would be recommended to purchase or from the brand SBL Pvt Ltd. 
