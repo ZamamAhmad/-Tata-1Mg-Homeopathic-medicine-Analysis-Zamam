@@ -14,7 +14,9 @@ This project involves analyzing data related to medicine products, including the
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-- Scraped the data with the help of Python BeautifulSoup librariy.
+- Scraped the data with the help of Python BeautifulSoup library.
+- Import all the neccesary libraries like numpy, pandas, matplotlib and seaborn.
+- Did a bit of data cleaning by removing the null values and assigning some null values with certain data.
 - Used Pandas for the data framing part.
 - Analysis was done with the help of Pandas and Excel.
 - Insights were generated from the above analysis.
