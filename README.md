@@ -12,6 +12,10 @@ This project involves analyzing data related to medicine products, including the
 | **Other Excel file** | These files (merged_data.xlsx, medicine_details_final.xlsx, merged_data.xlsx) have the scarpped data from the 1 Mg website. |
 | **Project Prestation** | This file have the dashboards and insights of the project. |
 
+![image](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/aaa8c199-6ce6-4235-825c-1711eb4065ee)
+
+
+
 ##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Analysis
 
 - Number of medicine available of different benefit area.
