@@ -1,6 +1,6 @@
 # <img src=https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f48a.svg width="48" height="48"> Tata 1Mg Homeopathic Medicine Analysis
 
-This project involves analyzing data related to medicine products, including their benefits, pricing, brands, ratings, and ingredients. The goal is to generate insights that can be used to create an interactive dashboard for analyzing the cost of opening a homeopathic medicine store and selecting the best medicine based on benefit area. 
+This repository contains the thorough analysis of homeopathic medicine with the help of pandas, including their benefits, pricing, brands, ratings and ingredients. The goal is to generate insights that can be used to create an interactive dashboard for better visualization, analyzing and selecting the best medicine based on benefit area. 
 
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
@@ -12,7 +12,7 @@ This project involves analyzing data related to medicine products, including the
 | **Other Excel file** | These files (merged_data.xlsx, medicine_details_final.xlsx, merged_data.xlsx) have the scarpped data from the 1 Mg website. |
 | **Project Prestation** | This file have the dashboards and insights of the project. |
 
-<p align="center"> ![1640889359717](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/868e98a4-4c29-4b49-ada2-ab0d569af9bb)
+![1640889359717](https://github.com/ZamamAhmad/-Tata-1Mg-Homeopathic-medicine-Analysis-Zamam/assets/133608854/868e98a4-4c29-4b49-ada2-ab0d569af9bb)
 
 
 
